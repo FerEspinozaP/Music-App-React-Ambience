@@ -138,7 +138,7 @@ const FixFooter = ({ trackIndex, audioList }) => {
                   <img src={`${baseUrl}/${avatar}`} />
                 </div>
                 <div className="mini-player-info mlr-10">
-                  <p>{title}</p>
+                  <h3>{title}</h3>
                   <p>{artist}</p>
                 </div>
               </div>

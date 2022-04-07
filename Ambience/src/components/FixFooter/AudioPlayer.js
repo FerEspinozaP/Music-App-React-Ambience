@@ -28,8 +28,8 @@ const AudioPlayer = ({
       </div>
 
       <div>
-        <h2>{title}</h2>
-        <h3>{artist}</h3>
+        <a className="audio-title-name">{title}</a>
+        <a className="audio-artist-name flex">{artist}</a>
       </div>
 
       <div className="audio-player-progress">
