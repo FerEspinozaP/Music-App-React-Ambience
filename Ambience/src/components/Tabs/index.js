@@ -54,7 +54,7 @@ const Tabs = ({ tabData, onItemSelect }) => {
                     className="content-item m-10"
                   >
                     <div className="d-visilibity z-0"></div>
-                    <img src={`${baseUrl}/music/${item.key}/${item.key}.jpg`} />
+
                     <div className="content-label flex justify-center align-center">
                       {item.label}
                     </div>

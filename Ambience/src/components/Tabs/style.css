@@ -7,15 +7,17 @@
     color: #1B2E48;
     font-size: 18px;
     border-bottom: 1px solid #CDD9E9;
+  
 }
 
 .tab-header > a.active{
-    border-bottom: 1px solid #1B2E48;
+    border-bottom: 1px solid #2A3C55;
 }
 
 .tab-contents .tab-content{
     display: none;
     margin-bottom: 100px;
+    
 }
 
 /* .tab-contents .tab-content:target{
@@ -29,10 +31,14 @@
 .tab-contents .tab-content .content-item{
     width: 120px;
     height: 120px;
+    font-weight: 700;
     border-radius: 8%;
-    background: #1B2E48;
+    background: #2A3C55;
     overflow: hidden;
     position: relative;
+    box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.25);
+    background: url(./../../assets/Album-BackGround.png) 
+
 }
 
 .content-wrapper{
