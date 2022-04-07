@@ -58,13 +58,13 @@ const appData = {
                     bgImage: ''
                 },
                 {
-                    label: 'Cinematic',
+                    label: 'Funk',
                     bgImage: '',
-                    key: 'cinematic'
+                    key: 'funk'
                 },
                 {
-                    label: 'Accoustic',
-                    key: 'accoustic',
+                    label: 'Acoustic',
+                    key: 'acoustic',
                     bgImage: ''
                 }
             ]

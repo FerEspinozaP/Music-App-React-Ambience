@@ -8,8 +8,8 @@ const PORT = 9000;
 const __AUDIO_TYPE__ = {
     ROCK: "rock",
     JAZZ: "jazz",
-    CINEMATIC: "cinematic",
-    ACCOUSTIC: "accoustic"
+    FUNK: "funk",
+    ACCOUSTIC: "acoustic"
 }
 
 function getDirectories(type){
