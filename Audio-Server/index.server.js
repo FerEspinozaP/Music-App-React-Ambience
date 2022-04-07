@@ -9,7 +9,7 @@ const __AUDIO_TYPE__ = {
     ROCK: "rock",
     JAZZ: "jazz",
     FUNK: "funk",
-    ACCOUSTIC: "acoustic"
+    ACOUSTIC: "acoustic"
 }
 
 function getDirectories(type){
